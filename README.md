@@ -1,16 +1,17 @@
-### Hi there 👋
+# Adam Haydon
 
-<!--
-**ahaydon/ahaydon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Principal Technical Architect @ Qlik
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/github-ahaydon-%23181717?logo=github&style=for-the-badge)](https://github.com/ahaydon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitLab](https://img.shields.io/badge/gitlab-ahaydon-%23FCA121?logo=gitlab&style=for-the-badge)](https://gitlab.com/ahaydon)
+
+![GPG](https://img.shields.io/badge/gpg-2AF4_5C0B_DB68_F11C-%230093DD?logo=gnuprivacyguard&style=for-the-badge)
+
+[![Keybase](https://img.shields.io/badge/keybase-adamhaydon-%2333A0FF?logo=keybase&style=for-the-badge)](https://keybase.io/adamhaydon)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-ahaydon-%230A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ahaydon/)
+
+[![PowerShell Gallery](https://img.shields.io/badge/powershell_gallery-adamhaydonqlik-%235391FE?logo=powershell&style=for-the-badge)](https://www.powershellgallery.com/profiles/adamhaydonqlik)
+
+[![Qlik Community](https://img.shields.io/badge/qlik-Adam_Haydon-%23009845?logo=data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARZgAAEWYAAZFmAAVRZgAGEWYABRFmAAFRZgAAEWYAABFmAABRZgAQEWYAFVFmAADAAAAAAAAAABFmAAARZgAEEWYAFVFmACfRZgAyUWYAM9FmADIRZgAmkWYAElFmAAQRZgAUkWYANVFmADhRZgAT0WYAABFmAAARZgAK0WYAKlFmAD1RZgA/0WYAP9FmAD/RZgA/0WYAP9FmADtRZgAxEWYAOpFmAD/RZgA+UWYAItFmAAARZgAJkWYAMRFmAD/RZgA/0WYAOxFmADGRZgAtUWYAMhFmADuRZgA/0WYAP9FmAD/RZgA8EWYAIRFmAAWRZgADEWYAJxFmAD/RZgA/EWYALRFmQA/P6sADS/ZAAVBpQAPRZgARkWYALtFmAD9RZgA/0WYAMFFmAARRZgAAEWYAE1FmADrRZgA/0WYALhFmQAdYkNvClleS0tWZUJwWVxNOmgwhgRFmQAkRZgAxkWYAP9FmADmRZgANUWYAABFmACXRZgA/0WYAPRFmQBOZD12B1tXVItbV1TzW1dT/1tXVONbV1Rk/wD/AEWYAF9FmAD6RZgA/0WYAHVFmAAARZgA4EWYAP9FmADXQqAAGVxVVjxbV1TuW1dU/1tXVP9bV1T/W1dU011SWiBEmwAmRZgA40WYAP9FmACdRZgAAkWYAP9FmAD/RZgA0ECmABFbVlVUW1dU+ltXVP9bV1T/W1dU/1tXVOtcVVc0QqEAFkWYANdFmAD/RZgArUWYAAZFmADFRZgA/0WYAOBEmwAmXFNaI1tXVNJbV1T/W1dU/1tXVP9bV1S1X0tkEEWZADZFmADtRZgA/0WYAJFFmAAARZgAf0WYAPxFmAD8RZgAdFhgSAFbV1RKW1hTu1pZUuRbV1SxW1ZVND+qAAJFmACFRZgA/0WYAPpFmABfRZgAAEWYAC5FmADXRZgA/0WYAOBFmABLSokeA1tYUw5WZz8kXFNZC0ScAARFmABbRZgA6kWYAP9FmADMRZgAH0WYAABFmAACRZgAbUWYAPZFmAD/RZgA5EWYAIpFmQBFRJoANUWZAEpFmACURZgA60WYAP9FmADuRZgAXkWYAABFmAAARZgAAEWYAAxFmACJRZgA8UWYAP9FmAD9RZgA9UWYAO5FmAD2RZgA/kWYAP9FmADtRZgAdEWYAAhFmAAAAAAAAAAAAABFmAAARZgACUWYAF5FmADERZgA80WYAP5FmAD/RZgA/kWYAPJFmADBRZgAVkWYAAdFmAAAAAAAAAAAAAAAAAAAAAAAAEWYAABFmAABRZgAHEWYAFZFmACKRZgAmkWYAIhFmABSRZgAGUWYAABFmAAAAAAAAAAAAAAAAAAA+DAAAOAAAADAAAAAgAAAAAABAAAAAQAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAMAAIADAADABwAA4A8AAA==&style=for-the-badge)](https://community.qlik.com/t5/user/viewprofilepage/user-id/44355)
